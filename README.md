@@ -101,7 +101,7 @@ Make sure you have the following prerequisites installed on your system:
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/Abdul12527/University-Event-Management-System.git
+   git clone https://github.com/anjaliingale5/University-Event.git
    
 2. Navigate to the project directory
 
